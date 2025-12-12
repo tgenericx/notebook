@@ -1,48 +1,14 @@
 ***
 
-# **TABLE OF CONTENTS**
+## **ABSTRACT**
 
-**CHAPTER ONE: INTRODUCTION** ............................................................................ 1
+This report provides a detailed account of a comprehensive practical engineering project designed to master the end-to-end lifecycle of modern software development. The project involved the design, implementation, and deployment of a full-stack application utilizing a robust tech stack including NestJS for backend services, React for the user interface, and both REST and GraphQL for API communication. Key engineering pillars such as secure authentication using JSON Web Tokens (JWT), data persistence via Prisma ORM, and performance optimization through Redis caching were implemented to ensure system reliability and scalability.
 
-**CHAPTER TWO: WORK DONE** ................................................................................ 3
-2.1 Understanding How the Internet Works ...................................................................... 3
-2.2 Introduction to REST and GraphQL ........................................................................... 4
-2.3 Principles of REST API Design ................................................................................... 5
-2.4 Hands-on REST API Development ............................................................................. 6
-2.5 Linux Basics and System Administration .................................................................... 7
-2.6 Git and GitHub Workflow ........................................................................................... 8
-2.7 Setting Up GraphQL and Database Integration ........................................................... 9
-2.8 Implementing Login and Registration ........................................................................ 10
-2.9 Web Security Practices ................................................................................................ 11
-2.10 Event Management Feature ....................................................................................... 12
-2.11 Email Sending Feature ............................................................................................... 13
-2.12 JWT Refresh Token Feature ..................................................................................... 14
-2.13 Refactoring JWT for Both REST and GraphQL ....................................................... 15
-2.14 Caching System Implementation ............................................................................... 16
-2.15 Background Job for Post Distribution ....................................................................... 17
-2.16 GraphQL PubSub for Real-Time Features ................................................................. 18
-2.17 Docker Environment Setup ....................................................................................... 19
-2.18 Full React Frontend Development ............................................................................. 20
 
-**CHAPTER THREE: CHALLENGES AND SOLUTIONS PROFFERED** ............ 22
-3.1 Challenge: API Not Returning Correct JSON ............................................................. 22
-3.2 Challenge: Cross-Origin (CORS) Issues ..................................................................... 22
-3.3 Challenge: Authentication Inconsistency .................................................................... 23
-3.4 Challenge: Database Schema Conflicts ...................................................................... 23
-3.5 Challenge: Slow Performance for Heavy Queries ....................................................... 24
-3.6 Challenge: Real-Time Subscriptions Dropping ........................................................... 24
-3.7 Challenge: React Forms Behaving Incorrectly ............................................................ 25
-3.8 Challenge: Image Upload Errors ................................................................................. 25
-3.9 Challenge: Git Conflicts .............................................................................................. 26
-3.10 Challenge: Docker Containers Not Communicating ................................................. 26
 
-**CHAPTER FOUR: SUMMARY AND CONCLUSION** ........................................... 27
+[Image of full-stack web application architecture overview]
 
-**REFERENCES (IEEE)** ................................................................................................ 28
 
-**APPENDIX** .................................................................................................................... 30
-Figure A.1: Continuous Integration (CI) Workflow ........................................................... 30
-Figure A.2: System Architecture and Data Flow ............................................................... 31
-Deployment and API Endpoints ........................................................................................ 32
+Furthermore, the project integrated advanced DevOps practices, including containerization with Docker and Continuous Integration/Continuous Deployment (CI/CD) workflows via GitHub Actions. Real-time updates were achieved using GraphQL PubSub, and system responsiveness was enhanced through background job processing. This exercise served to bridge the gap between theoretical software engineering principles and production-ready implementation, resulting in a secure, maintainable, and high-performance digital ecosystem. The report outlines the architectural decisions made, the technical challenges overcome, and the professional engineering workflows adopted during the development process.
 
 ***
