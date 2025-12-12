@@ -11,10 +11,14 @@
             "id": "7ebf14e8b2657864",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "siwes report.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "siwes report"
             }
           }
         ]
