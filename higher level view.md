@@ -25,12 +25,5 @@ flowchart TD
     style C fill:#ffe1f5
     style Core fill:#e8f5e9
   ```
-  
-  ```mermaid
-  flowchart LR
-  Config[AuthModule options<br/>{ strategyConfigs, providers, redirectUrls, ... }]
-    --> B[CredentialAuthModule<br/>(uses: userRepo, passwordHasher, jwtConfig)]
-  Config
-    --> C[GoogleOAuthModule<br/>(uses: clientId, clientSecret, callbackUrl, scopes)]
-    
-    ```
+
+

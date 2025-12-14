@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "issues.md",
+                "file": "higher level view.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "issues"
+              "title": "higher level view"
             }
           }
         ]
@@ -167,6 +167,9 @@
   },
   "active": "7ebf14e8b2657864",
   "lastOpenFiles": [
+    "flow.md",
+    "issues.md",
+    "higher level view.md",
     "siwes report.md"
   ]
 }
