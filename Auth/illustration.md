@@ -1,7 +1,7 @@
 ```mermaid
 graph TB
     subgraph "Core Module Layer"
-        AuthModule[AuthModule<br/>@Global]
+    AuthModule["AuthModule<br/>@Global"]
     end
     
     subgraph "Feature Modules"
